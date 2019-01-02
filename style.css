@@ -1,0 +1,16 @@
+
+p {
+    font-weight: 400;
+    text-transform: capitalize;
+
+
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+img {
+    width: 200px;
+    max-height: 200px;
+}
